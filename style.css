@@ -1,0 +1,51 @@
+
+                                         .zom{
+                                              position: absolute;
+                                               top: 150px; 
+                                               left: 620px;
+                                                color: aliceblue; 
+                                                font-size:90px; 
+                                                font-weight:900; 
+                                                font-style: normal; 
+                                                font-family: Verdana, Geneva, 
+                                                Tahoma, sans-serif; 
+                                             } 
+                                         .find{ 
+                                             position: absolute; 
+                                             top: 340px; 
+                                             left: 350px;
+                                              color: aliceblue; 
+                                              font-size:50px; 
+                                              font-weight:900;
+                                               font-style: normal; 
+                                               font-family: Verdana, Geneva, 
+                                               Tahoma, sans-serif; 
+                                             } 
+                                             .head-buttons ul{
+                                                  text-decoration: none; 
+                                                  display: flex;
+                                                   gap: 5rem;
+                                                    position: absolute; 
+                                                    top: 10px; 
+                                                    color:darkgray;
+                                                     font-size:xx-large; 
+                                                     font-weight: bolder; 
+                                                     left: 700px; 
+                                                     list-style-type: none; 
+                                                     cursor: pointer; 
+                                                 }
+                                                  .head-buttons ul:hover{
+                                                      color: beige; 
+                                                     }
+                                                       .headings p{ margin-left: 8%;
+                                                          font-size: xx-large;
+                                                           font-weight: lighter;
+                                                            font-family:Verdana, Geneva, 
+                                                            Tahoma, sans-serif; position: absolute; 
+                                                            top: 1390px;
+                                                          } 
+                                                         
+
+
+
+
